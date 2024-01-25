@@ -65,9 +65,9 @@ Tenho a intenção de aprimorar continuamente minhas habilidades com o conceito 
 
 ## Author
 
-- Website - [Add your name here](https://github.com/G4breela)
+- Website - [G4breela](https://github.com/G4breela)
 - Frontend Mentor - [@G4breela](https://www.frontendmentor.io/profile/G4breela)
-- Likedlin- [@yourusername](https://www.linkedin.com/in/gs-silva01/)
+- LikedIn- [@gs-silva01](https://www.linkedin.com/in/gs-silva01/)
 
 
 ## Acknowledgments
