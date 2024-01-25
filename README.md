@@ -17,16 +17,18 @@
 
 ### Screenshot
 
-Mobile Version 
+<p>- Mobile Version</p>
+ 
 ![](./images/mobile-version.png)
 
-Desktop Version
+<p>- Desktop Version</p>
+
 ![](./images/desktop-version.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: []()
 - Live Site URL: [https://g4breela.github.io/projeto-qr-code/index.html](https://g4breela.github.io/projeto-qr-code/index.html)
 
 ## My process
@@ -36,7 +38,7 @@ Desktop Version
 - Tags semânticas do HTML5
 - Propriedades personalizadas CSS
 - Flexbox
-- Mobile-first workflow
+- Mobile-first
 
 
 ### What I learned
