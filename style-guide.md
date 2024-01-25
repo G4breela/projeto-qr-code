@@ -1,6 +1,8 @@
 # Front-end Style Guide
 
 ## Layout
+ 
+ (Fornecido pelo Frondend Mentor)
 
 The designs were created to the following widths:
 
