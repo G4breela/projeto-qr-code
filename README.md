@@ -28,7 +28,7 @@
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-with-flexbox-hxJ-Dqtov-](https://www.frontendmentor.io/solutions/qr-code-component-with-flexbox-hxJ-Dqtov-)
 - Live Site URL: [https://g4breela.github.io/projeto-qr-code/index.html](https://g4breela.github.io/projeto-qr-code/index.html)
 
 ## My process
